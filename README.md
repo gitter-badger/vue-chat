@@ -1,5 +1,7 @@
 # vue-chat
 
+[![Join the chat at https://gitter.im/jingkeling/Lobby](https://badges.gitter.im/jingkeling/Lobby.svg)](https://gitter.im/jingkeling/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > 项目主要用vue + VantUI 构建的仿bilbili的webapp。前端代码用Docker部署在Nginx容器中
 
 
